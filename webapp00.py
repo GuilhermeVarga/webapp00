@@ -13,4 +13,4 @@ st.header("Com certeza um dos cabeçalhos já feitos")
 st.subheader("Top 10 subcabeçalhos")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Esse é o texto principal, aqui é onde deveria ter algo de útil. Deveria.")
+st.write("Esse é o texto principal, aqui é onde deveria ter algo de útil. Deveria. 10h15min, Campinas, São Paulo. Universidade Mackenzie")
